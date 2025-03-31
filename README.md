@@ -44,3 +44,29 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For questions or feedback, please reach out to [your-email@example.com].
+
+
+Food Ordering App
+--------------------
+// Main Container Component 
+   //Header
+        //logo
+        //Navigation
+            //NavItem
+            //NavItem
+            //NavItem
+   //Body
+        //Main
+            //SearchBar
+            //SearchButton
+            //ImageGrid
+                //ImageCard
+                //ImageCard
+                //ImageCard
+                //ImageCard
+                //ImageCard
+                //ImageCard
+   //Footer
+        //Footer
+            //FooterItem
+            //FooterItem
